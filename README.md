@@ -1,6 +1,3 @@
-# alx-pre_course 
-This is my first file created in this repo.
-## Details
-Done on Aug, 6th 2021
+# First file
 
-Moses Oyet David.
+This file was created early on but it's modified
